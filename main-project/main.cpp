@@ -17,7 +17,7 @@ void output(catalog* subscription)
 	cout << subscription->price << " ";
 	cout << '\n';
 	/********** вывод количества **********/
-	cout << "Количество...........: ";
+	cout << "Общее количество...........: ";
 	// вывод количества
 	cout << subscription->count << " ";
 	cout << '\n';
